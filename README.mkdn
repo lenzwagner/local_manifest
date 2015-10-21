@@ -1,0 +1,13 @@
+This is my local_manifest for Android 6.0 AOSP.
+If you want to load my files typ this in your aosp directory. 
+
+    cd .repo
+    git clone https://github.com/lenzwagner/local_manifest.git local_manifests
+
+The run 
+
+    repo sync
+
+
+
+
