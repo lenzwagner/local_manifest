@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_device_lge_p880" path="device/lge/p880" remote="github" revision="android-6.0" />
+  <project name="P880-dev/android_kernel_lge_x3" path="kernel/lge/x3" remote="github" revision="cm-12.0" />
+  <project name="lenzwagner/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="android-6.0" />
+  <project name="lenzwagner/p880-kernel" path="device/lge/p880-kernel" remote="github" revision="android-6.0" />
+  <project groups="pdk,linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project groups="pdk,linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+</manifest>
